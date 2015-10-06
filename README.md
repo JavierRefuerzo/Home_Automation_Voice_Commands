@@ -1,6 +1,6 @@
 # Home_Automation_Voice_Commands
 
-This repository contains a tasker project XML for the "Home Automation Voice Commands" Android App Avalible Here:
+This repository contains various tasker project XML for the "Home Automation Voice Commands" Android App Avalible Here:
 https://plus.google.com/+JavierRefuerzo/posts/Y2ANQYXS3bU
 
 The App version will corrispond to a file with the same version number
